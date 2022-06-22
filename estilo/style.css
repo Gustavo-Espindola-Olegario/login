@@ -106,7 +106,7 @@ form input[type="submit"] {
 
 form input[type="submit"]:hover {
     letter-spacing: 0.5px;
-    background-image: linear-gradient(to left, orangered, red);
+    background-image: linear-gradient(to left, orangered, rgb(255, 42, 0));
 }
 
 .footer {
