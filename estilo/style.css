@@ -147,3 +147,9 @@ form input[type="submit"]:hover {
 .social-field.twitter {
     background: linear-gradient(to right, #56a7f2, #468aca);
 }
+@media (max-width:350px) {
+    body {
+        min-height: none;
+        min-width: none;
+    }
+}
